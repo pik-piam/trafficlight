@@ -1,6 +1,6 @@
 # traffic light - Tools for data validation
 
-R package **trafficlight**, version **1.15.0**
+R package **trafficlight**, version **1.15.1**
 
 [![CRAN status](https://www.r-pkg.org/badges/version/trafficlight)](https://cran.r-project.org/package=trafficlight)  [![R build status](https://github.com/pik-piam/trafficlight/workflows/check/badge.svg)](https://github.com/pik-piam/trafficlight/actions) [![codecov](https://codecov.io/gh/pik-piam/trafficlight/branch/master/graph/badge.svg)](https://app.codecov.io/gh/pik-piam/trafficlight) [![r-universe](https://pik-piam.r-universe.dev/badges/trafficlight)](https://pik-piam.r-universe.dev/builds)
 
@@ -39,7 +39,7 @@ In case of questions / problems please contact Jan Philipp Dietrich <dietrich@pi
 
 To cite package **trafficlight** in publications use:
 
-Dietrich J, Bonsch M (2023). _trafficlight: traffic light - Tools for data validation_. R package version 1.15.0.
+Dietrich J, Bonsch M (2024). _trafficlight: traffic light - Tools for data validation_. R package version 1.15.1.
 
 A BibTeX entry for LaTeX users is
 
@@ -47,7 +47,7 @@ A BibTeX entry for LaTeX users is
 @Manual{,
   title = {trafficlight: traffic light - Tools for data validation},
   author = {Jan Philipp Dietrich and Markus Bonsch Bonsch},
-  year = {2023},
-  note = {R package version 1.15.0},
+  year = {2024},
+  note = {R package version 1.15.1},
 }
 ```

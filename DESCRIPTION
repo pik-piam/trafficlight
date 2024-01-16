@@ -1,8 +1,8 @@
 Package: trafficlight
 Type: Package
 Title: traffic light - Tools for data validation
-Version: 1.15.0
-Date: 2023-09-12
+Version: 1.15.1
+Date: 2024-01-16
 Authors@R: c(person("Jan Philipp", "Dietrich",
                     email = "dietrich@pik-potsdam.de", role = c("aut","cre")),
              person("Markus Bonsch", "Bonsch", role = c("aut")))
@@ -18,4 +18,4 @@ Imports:
 License: LGPL-3
 Encoding: UTF-8
 LazyData: no
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.0

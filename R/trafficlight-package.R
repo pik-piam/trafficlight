@@ -1,4 +1,3 @@
-
 #' Traffic light - Tools for data validation
 #' 
 #' The package contains tools for data validation and aggregation of validation
@@ -9,11 +8,7 @@
 #' 
 #' @name trafficlight-package
 #' @aliases trafficlight-package
-#' @docType package
 #' @author Markus Bonsch, Jan Philipp Dietrich
 #' 
 #' Maintainer: Jan Philipp Dietrich <dietrich@@pik-potsdam.de>
-NULL
-
-
-
+"_PACKAGE"
